@@ -1,0 +1,40 @@
+#  MiniWeb — A Minimal Python Web Framework
+
+MiniWeb is a lightweight educational web framework built from scratch to help beginners understand the **core concepts of backend development** without relying on large frameworks like Flask or Django.
+
+This project teaches:
+
+- How HTTP requests work  
+- How routing works internally  
+- How web frameworks parse headers, bodies, and query parameters  
+- How servers handle sockets and connections  
+- How responses are structured  
+
+Perfect for students, backend beginners, and anyone preparing to build more advanced projects.
+
+---
+
+##  Features
+
+- ✔️ Simple routing system (`@app.route("/")`)
+- ✔️ Manual HTTP request parsing (method, URL, headers, body)
+- ✔️ Query parameter extraction (`?name=Rayane`)
+- ✔️ Form data parsing (`POST` forms)
+- ✔️ Clean Response object system
+- ✔️ Beginner-friendly architecture
+
+---
+
+##  Project Structure
+
+SWF/
+├── miniweb/
+│   ├── __init__.py       
+│   ├── server.py          
+│   ├── request.py         
+│   ├── router.py          
+│   └── response.py        
+├── examples/
+│   └── hello_app.py       
+README.md
+
