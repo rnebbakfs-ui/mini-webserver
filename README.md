@@ -1,6 +1,8 @@
 #  MiniWeb — A Minimal Python Web Framework
 
-MiniWeb is a lightweight educational web framework built from scratch to help beginners understand the **core concepts of backend development** without relying on large frameworks like Flask or Django.
+MiniWeb or SWF (small web framework) is a lightweight educational web framework built from scratch to help beginners understand the **core concepts of backend development** without relying on large frameworks like Flask or Django. So In this **modest project** I'm gonna explain to myself and for the reader that: 
+1- This project is for who wants to understand backend logic **networking specifically**.
+2- It gives you real understanding, not framework memory (I noticed that the **majority** of web devs (Jrs), skips those important concepts of networks and how does things works in the background).
 
 This project teaches:
 
