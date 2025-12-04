@@ -4,11 +4,15 @@ MiniWeb is a lightweight educational web framework built from scratch to help be
 
 This project teaches:
 
-- How HTTP requests work  
+- How HTTP requests work 
+![HTTP work](assets/HTTP%20protocol.jpeg)
+ 
 - How routing works internally  
-- How web frameworks parse headers, bodies, and query parameters  
+- How web frameworks parse headers, bodies, and query parameters 
+![HTTP request](assets/Screenshot%202025-11-27%20at%2014-36-33%20HTTP%20Requests%20Methods%20Headers%20and%20Bodies.png) 
 - How servers handle sockets and connections  
 - How responses are structured  
+1[HTTP response](assets/HTTP_ResponseMessageExample.png)
 
 Perfect for students, backend beginners, and anyone preparing to build more advanced projects.
 
